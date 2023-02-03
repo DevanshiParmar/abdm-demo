@@ -1,3 +1,3 @@
 # abdm-demo
 
-## Vertex AI Ml Pipelines and AutoML - UC7 and UC8
+## Vertex AI ML Pipelines and AutoML - UC7 and UC8
