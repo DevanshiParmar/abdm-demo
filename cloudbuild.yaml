@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  args:
+  - gcloud
+  - functions
+  - deploy
+  - abdm-uc7
+  - --region=us-central1
+  - --source=.
+  - --trigger-http
+  - --runtime=python38
+options:
+  logging: CLOUD_LOGGING_ONLY
