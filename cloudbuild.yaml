@@ -9,5 +9,6 @@ steps:
   - --source=.
   - --trigger-http
   - --runtime=python38
+  - --entry-point=hepatitis_predict
 options:
   logging: CLOUD_LOGGING_ONLY
