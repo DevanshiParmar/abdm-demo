@@ -1,3 +1,3 @@
 # abdm-demo (digital india corporation)
 
-## CI/CD for Vertex AI ML Pipelines
+## CI/CD for Vertex AI ML Pipeline Model Endpoint
